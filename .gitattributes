@@ -1,0 +1,11 @@
+
+*.exe                     binary
+
+*.bin                     binary
+
+*.reg                     text    eol=crlf
+
+*.cmd                     text    eol=crlf
+
+README.md                         eol=crlf
+
